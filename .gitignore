@@ -112,6 +112,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+**/LM-BFF-pip-env*
 
 # Spyder project settings
 .spyderproject
